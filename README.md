@@ -1,3 +1,5 @@
+CS 2400, Section 107
+
 Name: Jack Ramsey
 
 Github username: JackRamsey12
