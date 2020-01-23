@@ -42,13 +42,7 @@
            new file:   answers.md
 
 7. On branch master
-   Changes not staged for commit:
-     (use "git add <file>..." to update what will be committed)
-     (use "git checkout -- <file>..." to discard changes in working directory)
-
-           modified:   answers.md
-
-   no changes added to commit (use "git add" and/or "git commit -a")
+   nothing to commit, working tree clean
 
 8. commit 7acbfb53282958d5a1d8ef1adc958a1f221c0ecc (HEAD -> master)
    Author: Jack Ramsey <jr182318@ohio.edu>
@@ -67,4 +61,12 @@
 
    no changes added to commit (use "git add" and/or "git commit -a")
 
-10. 
+10. The changes were not reflected.
+
+11. I got an error.
+
+12. Yes, the changes were reflected. I now see my class information.
+
+13. .  ..  .git  .gitignore  README.md
+
+
